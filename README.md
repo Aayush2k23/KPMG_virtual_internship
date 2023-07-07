@@ -13,3 +13,4 @@ I gained expertise in creating impactful visualizations by utilizing tools like 
 
 This virtual internship experience has equipped me with practical knowledge and valuable skills that are highly relevant in the ever-evolving field of data analytics. I am grateful to KPMG and Forage for this amazing internship experience.
 
+![KPMG Virtual Intenship Certificate](https://github.com/Aayush2k23/KPMG_virtual_internship/assets/131526402/ad77d6f1-ac4b-4cf5-a8a5-f120554ad989)
