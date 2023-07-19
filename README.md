@@ -1,6 +1,6 @@
 # KPMG_virtual_internship
 This is a Data Analytics Consulting Virtual Internship of KPMG company. I got this internship on the Forage website.
-During this internship, I delved into various aspects of data analytics, gaining valuable insights and practical experience. Some highlights of my learning include:
+During this internship, I delved into various aspects of data analytics, gaining valuable insights and practical experience. Some highlights of my learning include: 
 
 ### 🔍 Data Quality Assessment: 
 I developed a deep understanding of data quality dimensions, such as accuracy, completeness, consistency, currency, relevancy, and uniqueness. Evaluating data quality is crucial for generating reliable insights.
