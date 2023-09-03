@@ -12,9 +12,9 @@ Through hands-on exercises, I honed my skills in data exploration and model deve
 I gained expertise in creating impactful visualizations by utilizing tools like Excel & Power BI. Effectively presenting data through visually appealing dashboards allows for easy comprehension and aids in conveying insights to stakeholders.
 
 ### Tools Used:
-Excel
-Power BI
-Powerpoint
+Excel,
+Power BI,
+PowerPoint.
 
 This virtual internship experience has equipped me with practical knowledge and valuable skills that are highly relevant in the ever-evolving field of data analytics. I am grateful to KPMG and Forage for this amazing internship experience. 
 
